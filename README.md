@@ -31,7 +31,7 @@ This project demonstrates a simple Node.js server that serves static HTML templa
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   cd NodeFarm
    ```
 
 2. Install dependencies:
