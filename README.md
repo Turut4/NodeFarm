@@ -1,4 +1,4 @@
-```markdown
+
 # Node.js Server with Templating
 
 This project demonstrates a simple Node.js server that serves static HTML templates and dynamically generates content based on product data.
