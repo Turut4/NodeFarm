@@ -133,9 +133,6 @@ server.listen(port, localhost, () => {
 
 Feel free to open issues or submit pull requests for any improvements or bug fixes.
 
-## License
+##License
 
 This project is licensed under the MIT License.
-```
-
-Replace the placeholder `https://github.com/yourusername/your-repo.git` with your actual repository URL. This README provides a comprehensive overview and instructions for setting up and running the Node.js server project.
